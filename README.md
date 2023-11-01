@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhorjoshi&" alt="vibhorjoshi" /></p>
 
-<p><img align="center" src="https://www.holopin.io/@vibhorjoshi/?user=vibhorjoshi&" alt="vibhorjoshi" /></p>
+[![An image of @vibhorjoshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vibhorjoshi)](https://holopin.io/@vibhorjoshi)
 
 
 
