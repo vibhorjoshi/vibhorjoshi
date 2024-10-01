@@ -1,16 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Vibhor Joshi</h1>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Machine+Learning+Enthusiast" alt="Typing SVG">
-</p>
-
-<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhorjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="vibhorjoshi" /> </p>
-
-<p align="left"> <a href="https://github.com/vibhorjoshi" target="blank"><img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github" alt="GitHub" /></a> </p>
-
+<h1 align="center">Hi 👋, I'm Vibhor Joshi</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Machine+Learning+Enthusiast" alt="Typing SVG"> </p> <h3 align="center">A passionate Machine Learning Enthusiast from India</h3> <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhorjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="vibhorjoshi" /> </p> <p align="left"> <a href="https://github.com/vibhorjoshi" target="blank"><img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github" alt="GitHub" /></a> </p>
 - 🔭 I’m currently working on [Brain Tumor Detection](https://vercel.com/vibhor-joshis-projects/brain-tumor-classification-mri-scan)
 
 - 🌱 I’m currently learning **Flask, Django**
