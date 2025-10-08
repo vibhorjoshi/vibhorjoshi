@@ -334,7 +334,9 @@ class VibhorJoshi:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibhorjoshi&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="48%" />
 
 ### **Advanced Metrics**
+### **Advanced Metrics & Deep Insights**
 
+[![Vibhor's GitHub | Stats](https://stats.quine.sh/vibhorjoshi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vibhorjoshi)
 <table>
   <tr>
     <td align="center">
@@ -369,6 +371,7 @@ class VibhorJoshi:
 | 🧠 **Innovation Index** | Novel Solutions | High | 📈 |
 | 🚀 **Deployment Rate** | Production Apps | 6+ | 📈 |
 
+[![Vibhor's GitHub | Languages Over Time](https://stats.quine.sh/vibhorjoshi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vibhorjoshi)
 </div>
 
 ### **Achievement Showcase**
