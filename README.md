@@ -1,96 +1,72 @@
+<!-- Header Section -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=VIBHOR%20JOSHI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50"/>
+  
+  <h2>🎯 Machine Learning Enthusiast | 🌍 GeoAI Innovator | 🤖 Interactive Systems Builder</h2>
 
-<!-- Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=VIBHOR%20JOSHI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=60"/>
-
-## 🎯 Machine Learning Enthusiast | 🌍 GeoAI Innovator | 🤖 Interactive Systems Builder
-
-![Profile Views](https://komarev.com/ghpvc/?username=vibhorjoshi&style=for-the-badge&color=4A4A8C&label=NEURAL+CONNECTIONS)
-
+  <img src="https://komarev.com/ghpvc/?username=vibhorjoshi&style=for-the-badge&color=4A4A8C&label=NEURAL+CONNECTIONS"/>
 </div>
 
 ---
 
-<!-- Identity & Status Cards -->
+## 👤 Professional Snapshot
+
 <div align="center">
-
-## 👤 **PROFESSIONAL PROFILE**
-
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <h3>👤 Identity</h3>
+        <img src="https://img.shields.io/badge/Identity-Profile-4A4A8C?style=for-the-badge&logo=user&logoColor=white"/><br>
+        <b>Name:</b> Vibhor Joshi <br>
+        <b>Title:</b> Machine Learning Enthusiast <br>
+        <b>Education:</b> B.Tech (Pursuing) <br>
+        <b>Location:</b> India 🇮🇳
+      </td>
+      <td align="center">
+        <h3>⚡ Expertise</h3>
+        <img src="https://img.shields.io/badge/Expertise-Advanced-00B894?style=for-the-badge&logo=target&logoColor=white"/><br>
+        <b>Primary:</b> Computer Vision, GeoAI <br>
+        <b>Secondary:</b> Gesture Recognition, Web ML <br>
+        <b>Specialized:</b> Medical Imaging, File Management
+      </td>
+      <td align="center">
+        <h3>📊 Metrics</h3>
+        <img src="https://img.shields.io/badge/Performance-Metrics-FF6B35?style=for-the-badge&logo=chart-line&logoColor=white"/><br>
+        <b>Model Accuracy:</b> 90%+ (Medical Imaging)<br>
+        <b>Speed:</b> ~100ms (Text Deduplication)<br>
+        <b>Automation Gain:</b> 50%<br>
+        <b>Deployment:</b> Web + Desktop
+      </td>
+      <td align="center">
+        <h3>🚀 Missions</h3>
+        <img src="https://img.shields.io/badge/Missions-Active-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white"/><br>
+        Flask/Django Mastery<br>
+        GeoAI Scalability Research<br>
+        Gesture Control Enhancements<br>
+        Healthcare AI Development
+      </td>
+      <td align="center">
+        <h3>🟢 Status</h3>
+        <img src="https://img.shields.io/badge/System-ONLINE-brightgreen?style=for-the-badge&logo=power&logoColor=white"/><br>
+        Mode: INNOVATION<br>
+        Availability: ACTIVE<br>
+        Collaboration: OPEN
+      </td>
+    </tr>
+  </table>
 </div>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center">
-
-### 👤 **Identity**
-![Identity](https://img.shields.io/badge/Identity-Profile-4A4A8C?style=for-the-badge&logo=user&logoColor=white)
-
-**Name:** Vibhor Joshi  
-**Title:** Machine Learning Enthusiast  
-**Education:** B.Tech (Pursuing)  
-**Location:** India 🇮🇳  
-
-</td>
-<td width="20%" align="center">
-
-### ⚡ **Expertise**
-![Expertise](https://img.shields.io/badge/Expertise-Advanced-00B894?style=for-the-badge&logo=target&logoColor=white)
-
-**Primary:** Computer Vision, GeoAI  
-**Secondary:** Gesture Recognition, Web ML  
-**Specialized:** Medical Imaging, File Management  
-
-</td>
-<td width="20%" align="center">
-
-### 📊 **Metrics**
-![Metrics](https://img.shields.io/badge/Performance-Metrics-FF6B35?style=for-the-badge&logo=chart-line&logoColor=white)
-
-**Model Accuracy:** 90%+ (Medical Imaging)  
-**Processing Speed:** ~100ms (Text Deduplication)  
-**Automation Gain:** 50% (File Cleanup)  
-**Deployment Reach:** Web + Desktop  
-
-</td>
-<td width="20%" align="center">
-
-### 🚀 **Missions**
-![Missions](https://img.shields.io/badge/Current-Missions-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white)
-
-**Flask/Django** Mastery  
-**GeoAI Scalability** Research  
-**Gesture Control** Enhancements  
-**Healthcare AI** Development  
-
-</td>
-<td width="20%" align="center">
-
-### 🟢 **Status**
-![Status](https://img.shields.io/badge/System-ONLINE-brightgreen?style=for-the-badge&logo=power&logoColor=white)
-
-**Mode:** INNOVATION  
-**Availability:** ACTIVE  
-**Collaboration:** OPEN  
-
-</td>
-</tr>
-</table>
 
 ---
 
-<!-- Technology Arsenal -->
+## ⚙️ Technology Arsenal
+
 <div align="center">
-
-## ⚡ **TECHNOLOGY ARSENAL**
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### 💻 **Programming Stack**
-![Programming](https://img.shields.io/badge/Programming-Expert-success?style=for-the-badge&logo=code&logoColor=white)
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <h3>💻 Programming Stack</h3>
+        <img src="https://img.shields.io/badge/Programming-Expert-success?style=for-the-badge&logo=code&logoColor=white"/>
+        <br><br>
 
 | Language | Proficiency |
 |:---:|:---:|
@@ -98,25 +74,23 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-f7df1e?style=flat-square&logo=javascript&logoColor=black) | ![85%](https://img.shields.io/badge/85%25-green?style=flat-square) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007acc?style=flat-square&logo=typescript&logoColor=white) | ![80%](https://img.shields.io/badge/80%25-green?style=flat-square) |
 | ![C++](https://img.shields.io/badge/C++-Proficient-00599c?style=flat-square&logo=cplusplus&logoColor=white) | ![75%](https://img.shields.io/badge/75%25-yellow?style=flat-square) |
+      </td>
 
-</td>
-<td width="33%" align="center">
-
-### 🤖 **AI & Machine Learning**
-![AI ML](https://img.shields.io/badge/AI%20ML-Expert-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
+      <td align="center" width="33%">
+        <h3>🤖 AI & ML Frameworks</h3>
+        <img src="https://img.shields.io/badge/AI%20ML-Expert-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br><br>
 
 | Framework | Proficiency |
 |:---:|:---:|
 | ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-ee4c2c?style=flat-square&logo=pytorch&logoColor=white) | ![90%](https://img.shields.io/badge/90%25-brightgreen?style=flat-square) |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-ff6f00?style=flat-square&logo=tensorflow&logoColor=white) | ![85%](https://img.shields.io/badge/85%25-green?style=flat-square) |
 | ![OpenCV](https://img.shields.io/badge/OpenCV-Specialist-5c3ee8?style=flat-square&logo=opencv&logoColor=white) | ![88%](https://img.shields.io/badge/88%25-green?style=flat-square) |
-| ![transformers.js](https://img.shields.io/badge/transformers.js-Integrated-412991?style=flat-square&logo=huggingface&logoColor=white) | ![80%](https://img.shields.io/badge/80%25-green?style=flat-square) |
+| ![Transformers.js](https://img.shields.io/badge/transformers.js-Integrated-412991?style=flat-square&logo=huggingface&logoColor=white) | ![80%](https://img.shields.io/badge/80%25-green?style=flat-square) |
+      </td>
 
-</td>
-<td width="33%" align="center">
-
-### 🌐 **Web & Deployment**
-![Web](https://img.shields.io/badge/Web-Deployment-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)
+      <td align="center" width="33%">
+        <h3>🌐 Web & Deployment</h3>
+        <img src="https://img.shields.io/badge/Web-Deployment-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/><br><br>
 
 | Tool | Proficiency |
 |:---:|:---:|
@@ -124,304 +98,87 @@
 | ![Django](https://img.shields.io/badge/Django-Advanced-092e20?style=flat-square&logo=django&logoColor=white) | ![85%](https://img.shields.io/badge/85%25-green?style=flat-square) |
 | ![React](https://img.shields.io/badge/React-Advanced-61dafb?style=flat-square&logo=react&logoColor=black) | ![80%](https://img.shields.io/badge/80%25-green?style=flat-square) |
 | ![Vercel](https://img.shields.io/badge/Vercel-Specialist-000000?style=flat-square&logo=vercel&logoColor=white) | ![85%](https://img.shields.io/badge/85%25-green?style=flat-square) |
-
-</td>
-</tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<!-- Currently Exploring -->
-<div align="center">
+## 🎓 Currently Exploring
 
-## 🎓 **CURRENTLY EXPLORING**
-*Advancing AI applications in healthcare, geospatial analysis, and interactive systems — with a focus on scalability and user-centric design.*
-
-</div>
-
-<table width="100%">
-  <tr>
-    <th>Topic</th>
-    <th>Focus</th>
-    <th>Tools / Frameworks</th>
-  </tr>
-  <tr>
-    <td>🧠 Computer Vision & Medical Imaging</td>
-    <td>Tumor detection, disease prediction, image segmentation</td>
-    <td>TensorFlow, PyTorch, OpenCV, Scikit-learn, Keras</td>
-  </tr>
-  <tr>
-    <td>🌍 Geospatial AI</td>
-    <td>Building footprint extraction, urban mapping, spatial analytics</td>
-    <td>PyTorch, GDAL, GeoPandas, QGIS, CUDA</td>
-  </tr>
-  <tr>
-    <td>🤖 Gesture Recognition</td>
-    <td>Real-time pose estimation for interactive controls</td>
-    <td>MediaPipe, OpenPose, Python, OpenCV</td>
-  </tr>
-  <tr>
-    <td>📁 Intelligent File Management</td>
-    <td>Semantic duplicate detection, automated organization</td>
-    <td>TypeScript, transformers.js, faiss, Node.js, Prisma</td>
-  </tr>
-  <tr>
-    <td>🌐 Web Deployment for ML</td>
-    <td>Scalable model serving, API-driven applications</td>
-    <td>Flask, Django, React, Vercel, Streamlit, Fastify</td>
-  </tr>
-  <tr>
-    <td>📊 Data Pipelines & Optimization</td>
-    <td>ETL, data augmentation, handling imbalanced datasets</td>
-    <td>Pandas, NumPy, Dask, Airflow, SciPy</td>
-  </tr>
-</table>
+| Topic | Focus | Tools / Frameworks |
+|:---|:---|:---|
+| 🧠 **Computer Vision & Medical Imaging** | Tumor detection, segmentation | TensorFlow, PyTorch, OpenCV |
+| 🌍 **Geospatial AI** | Building extraction, mapping | GDAL, GeoPandas, QGIS |
+| 🤖 **Gesture Recognition** | Real-time pose estimation | MediaPipe, OpenPose, OpenCV |
+| 📁 **File Intelligence** | Semantic duplicate detection | transformers.js, faiss, Prisma |
+| 🌐 **Web ML Deployment** | Scalable model APIs | Flask, Django, Vercel |
+| 📊 **Data Pipelines** | ETL, augmentation | Dask, Airflow, SciPy |
 
 <details>
-  <summary><b>Quick Notes</b></summary>
-  - Computer Vision: CNNs, transfer learning, and segmentation for medical diagnostics  
-  - GeoAI: GPU-accelerated processing for heterogeneous imagery and limited labels  
-  - Gesture Recognition: Low-latency pose estimation for real-time gaming  
-  - File Management: Semantic similarity with MiniLM/CLIP, SHA256 hashing  
-  - Web Deployment: RESTful APIs, responsive UIs, cloud-native hosting  
-  - Data Pipelines: Optimized preprocessing, augmentation, and scalability  
+  <summary><b>🧩 Quick Insights</b></summary>
+  - CNNs & transfer learning for medical imaging  
+  - GPU-accelerated GeoAI with heterogeneous imagery  
+  - Real-time gesture control for interactive systems  
+  - Semantic file similarity via MiniLM & CLIP  
+  - Cloud-ready ML deployment via Flask/Django + React  
+  - Optimized preprocessing & augmentation pipelines  
 </details>
 
 ---
 
-<!-- Project Portfolio -->
-<div align="center">
+## 💼 Project Portfolio
 
-## 💼 **PROJECT PORTFOLIO**
-*Complete Mission-Critical AI Technology Solutions*
+| Project | Description | Highlights |
+|:---|:---|:---|
+| 🚀 [**Fusing Brains & Boundaries**](https://github.com/vibhorjoshi/Fusing-Brains-and-Boundaries) | GPU-Accelerated GeoAI Framework | Spatial analytics, GPU workflows, building footprint extraction |
+| 🧠 **Mystic Tarot** | Mental Health Support Platform | Full-stack JS, therapy guidance, real-time chat |
+| 🤖 **Temple Run Controller** | Gesture-Based Game Interface | MediaPipe, low-latency interaction, HCI research |
+| 📁 **AI File Cleaner** | Intelligent File Management System | CLIP/MiniLM similarity, 100ms latency, Electron + Next.js |
+| 🩺 **Brain Tumor Detection** | CNN MRI Classifier | Vercel deployment, precision healthcare model |
+| 🌿 **Multiple Disease Prediction** | Multi-condition Medical Predictor | Ensemble ML, Streamlit interface, modular expansion |
+
+---
+
+## 📊 Performance Dashboard
+
+<div align="center">
+  
+| Metric | Symbol | Focus |
+|:---|:---:|:---|
+| 🔥 Neural Network Matrix | 🧠 | Model Optimization |
+| 📊 Code Commits | 🧩 | Continuous Delivery |
+| ⭐ Repository Stars | 🌟 | Open Source Recognition |
+| 🍴 Project Forks | 🍽️ | Developer Collaboration |
+| 🎯 Issues Resolved | ✅ | Iterative Improvement |
+| 📈 Pull Requests | 🔁 | Active Contributions |
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
+---
 
-### 🚀 [Fusing-Brains-and-Boundaries](https://github.com/vibhorjoshi/Fusing-Brains-and-Boundaries)
-![GeoAI](https://img.shields.io/badge/Status-🔥%20PRODUCTION-brightgreen?style=for-the-badge)
+## 🌐 Connect & Collaborate
 
-**GPU-Accelerated GeoAI Framework**
+<div align="center">
 
-```yaml
-impact:
-  scalability: "Processes large-scale imagery"
-  accuracy: "Handles heterogeneous data"
-  efficiency: "GPU-optimized workflows"
-  innovation: "Hybrid ML-Geo approach"
+| Platform | Link |
+|:---|:---|
+| 💻 **GitHub** | [github.com/vibhorjoshi](https://github.com/vibhorjoshi) |
+| 🔗 **LinkedIn** | [linkedin.com/in/vibhorjoshi](https://linkedin.com/in/vibhorjoshi) |
+| 📧 **Email** | vibhorjoshi40@gmail.com |
+| 📊 **Kaggle / Research** | [kaggle.com/vibhorjoshi](https://kaggle.com/vibhorjoshi) |
 
-features:
-  - Building footprint extraction
-  - Large-scale spatial analysis
-  - GPU-accelerated processing
-  - Template-based framework
+</div>
 
+---
 
+<div align="center">
 
+> 💭 *“In machine learning, innovation lies in blending technical precision with human-centric design — turning complex data into tools that empower healthcare, urban intelligence, and interactive experiences.”*
 
+⚡ **SYSTEM STATUS:** ONLINE & OPTIMIZED FOR INNOVATION  
+🚀 **NEURAL NETWORKS ACTIVE — SHAPING THE FUTURE OF AI**
 
-
-🧠 Mystic-Tarot
-
-Mental Health Support Platform
-achievements:
-  engagement: "Interactive therapy tools"
-  accessibility: "User-friendly design"
-  tech_stack: "Full-stack JavaScript"
-  impact: "Mental health support"
-
-features:
-  - Tarot-inspired guidance
-  - Real-time chat/support
-  - Privacy-focused design
-  - Responsive web interface
-
-
-
-
-
-
-🤖 Temple-Run-Controlling-Game
-
-Gesture-Based Game Controller
-capabilities:
-  interaction: "Real-time pose detection"
-  latency: "Low-latency controls"
-  platform: "Python-based system"
-  innovation: "Advancing HCI"
-
-features:
-  - Gesture recognition engine
-  - Game integration (Temple Run)
-  - Pose estimation with MediaPipe
-  - Custom control mappings
-
-
-
-
-
-
-
-
-📁 Ai-File-Cleaner
-
-Intelligent File Management System
-highlights:
-  ai_features: "Semantic duplicate detection"
-  automation: "Real-time directory scanning"
-  tech_stack: "TypeScript + Next.js + Electron"
-  performance: "~100ms text, ~200ms image"
-
-features:
-  - Text/image similarity (MiniLM/CLIP)
-  - SHA256 exact matching
-  - Responsive web/desktop UI
-  - Cross-platform support
-
-
-
-
-
-
-🩺 Brain-Tumor-Detection
-
-MRI-Based Classification Tool
-development:
-  model: "CNN-based tumor detection"
-  deployment: "Vercel-hosted app"
-  accuracy: "High-precision diagnostics"
-  focus: "Healthcare AI"
-
-features:
-  - MRI image processing
-  - Real-time predictions
-  - Visualization dashboard
-  - Model fine-tuning
-
-
-
-
-
-
-🌿 Multiple-Disease-Prediction
-
-Multi-Disease Prediction System
-scope:
-  diseases: "Multi-condition analysis"
-  platform: "Streamlit web app"
-  models: "Ensemble ML techniques"
-  collaboration: "Open for contributions"
-
-features:
-  - Symptom-based predictions
-  - User-friendly interface
-  - Privacy-compliant design
-  - Expandable disease modules
-
-
-
-
-
-
-
-
-
-
-
-📊 PERFORMANCE DASHBOARD
-🔥 Neural Network Performance Matrix
-
-
-
-
-
-  
-  📊 CODE COMMITS
-
-
-  
-  ⭐ REPOSITORY STARS
-
-
-  
-  🍴 PROJECT FORKS
-
-
-  
-  🔥 CODING STREAK
-
-
-  
-  📈 PULL REQUESTS
-
-
-  
-  🎯 ISSUES RESOLVED
-
-
-
-
-
-  
-  
-
-
-
-  
-
-
-
-
-
-
-
-
-🌐 PROFESSIONAL NETWORK
-
-
-
-  
-    
-  
-  🔗 Professional Network
-
-
-  
-    
-  
-  💻 Code Repository
-
-
-  
-    
-  
-  📧 Direct Contact
-
-
-  
-    
-  
-  📋 Data Science Profile
-
-
-
-
-💭 Core Philosophy
-"In machine learning, innovation lies in blending technical precision with human-centric solutions, transforming complex data into tools that empower healthcare, urban planning, and interactive experiences."
-
-
-
-
-
-
-
-
-⚡ SYSTEM STATUS: ONLINE AND OPTIMIZED FOR INNOVATION ⚡🚀 NEURAL NETWORKS ACTIVE - SHAPING THE FUTURE OF AI 🚀
-
-
-```
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=100&section=footer"/>
+</div>
