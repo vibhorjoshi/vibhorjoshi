@@ -220,3 +220,208 @@ features:
   - Template-based framework
 
 
+
+
+
+
+🧠 Mystic-Tarot
+
+Mental Health Support Platform
+achievements:
+  engagement: "Interactive therapy tools"
+  accessibility: "User-friendly design"
+  tech_stack: "Full-stack JavaScript"
+  impact: "Mental health support"
+
+features:
+  - Tarot-inspired guidance
+  - Real-time chat/support
+  - Privacy-focused design
+  - Responsive web interface
+
+
+
+
+
+
+🤖 Temple-Run-Controlling-Game
+
+Gesture-Based Game Controller
+capabilities:
+  interaction: "Real-time pose detection"
+  latency: "Low-latency controls"
+  platform: "Python-based system"
+  innovation: "Advancing HCI"
+
+features:
+  - Gesture recognition engine
+  - Game integration (Temple Run)
+  - Pose estimation with MediaPipe
+  - Custom control mappings
+
+
+
+
+
+
+
+
+📁 Ai-File-Cleaner
+
+Intelligent File Management System
+highlights:
+  ai_features: "Semantic duplicate detection"
+  automation: "Real-time directory scanning"
+  tech_stack: "TypeScript + Next.js + Electron"
+  performance: "~100ms text, ~200ms image"
+
+features:
+  - Text/image similarity (MiniLM/CLIP)
+  - SHA256 exact matching
+  - Responsive web/desktop UI
+  - Cross-platform support
+
+
+
+
+
+
+🩺 Brain-Tumor-Detection
+
+MRI-Based Classification Tool
+development:
+  model: "CNN-based tumor detection"
+  deployment: "Vercel-hosted app"
+  accuracy: "High-precision diagnostics"
+  focus: "Healthcare AI"
+
+features:
+  - MRI image processing
+  - Real-time predictions
+  - Visualization dashboard
+  - Model fine-tuning
+
+
+
+
+
+
+🌿 Multiple-Disease-Prediction
+
+Multi-Disease Prediction System
+scope:
+  diseases: "Multi-condition analysis"
+  platform: "Streamlit web app"
+  models: "Ensemble ML techniques"
+  collaboration: "Open for contributions"
+
+features:
+  - Symptom-based predictions
+  - User-friendly interface
+  - Privacy-compliant design
+  - Expandable disease modules
+
+
+
+
+
+
+
+
+
+
+
+📊 PERFORMANCE DASHBOARD
+🔥 Neural Network Performance Matrix
+
+
+
+
+
+  
+  📊 CODE COMMITS
+
+
+  
+  ⭐ REPOSITORY STARS
+
+
+  
+  🍴 PROJECT FORKS
+
+
+  
+  🔥 CODING STREAK
+
+
+  
+  📈 PULL REQUESTS
+
+
+  
+  🎯 ISSUES RESOLVED
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+🌐 PROFESSIONAL NETWORK
+
+
+
+  
+    
+  
+  🔗 Professional Network
+
+
+  
+    
+  
+  💻 Code Repository
+
+
+  
+    
+  
+  📧 Direct Contact
+
+
+  
+    
+  
+  📋 Data Science Profile
+
+
+
+
+💭 Core Philosophy
+"In machine learning, innovation lies in blending technical precision with human-centric solutions, transforming complex data into tools that empower healthcare, urban planning, and interactive experiences."
+
+
+
+
+
+
+
+
+⚡ SYSTEM STATUS: ONLINE AND OPTIMIZED FOR INNOVATION ⚡🚀 NEURAL NETWORKS ACTIVE - SHAPING THE FUTURE OF AI 🚀
+
+
+```
+
+
