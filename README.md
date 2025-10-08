@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Vibhor Joshi</h1>
@@ -12,110 +12,111 @@
 
 ## 👤 PROFESSIONAL PROFILE
 
-I’m a dedicated ML enthusiast specializing in computer vision, geospatial AI, and human-computer interaction. My work focuses on building scalable, impactful solutions in healthcare (e.g., brain tumor detection), urban planning (e.g., building footprint extraction), and innovative interfaces (e.g., gesture-controlled games). I thrive on turning complex data into actionable insights through end-to-end ML pipelines and modern web deployment.
+Dynamic ML practitioner bridging computer vision, geospatial AI, and interactive applications. Specializing in efficient model deployment, gesture-based interfaces, and health-focused AI solutions. Experienced in end-to-end ML pipelines from data processing to production-ready web apps.
 
 **Quick Notes:**
-- Expertise in medical imaging (CNNs for MRI-based diagnostics)
-- GeoAI for large-scale spatial analysis with GPU acceleration
-- Gesture recognition for real-time interactive systems
-- Full-stack ML deployment with Flask, Django, and Vercel/Streamlit
-- Passionate about open-source collaboration and knowledge sharing
+- Expertise in medical imaging (e.g., brain tumor detection via MRI)
+- GeoAI for urban mapping and boundary extraction
+- Innovative human-computer interaction through body gestures
+- Automated file management with duplicate detection and organization
 
 ## ⚡ TECHNOLOGY ARSENAL
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,bootstrap,c,vercel,netlify,cpp,css,figma,github,html,js,linux,md,materialui,mysql,nodejs,postman,py,react,googlecloud,vscode,tensorflow,pytorch,opencv,flask,django" />
+  <img src="https://skillicons.dev/icons?i=git,bootstrap,c,vercel,netlify,cpp,css,figma,github,html,js,linux,md,materialui,mysql,nodejs,postman,py,react,googlecloud,vscode,tensorflow,pytorch,opencv,flask,django&perline=18" />
 </a>
 
-## 🎓 CURRENTLY EXPLORING
+## 🎓 Currently Exploring
 
-Pushing boundaries in AI-driven solutions for healthcare, geospatial analysis, and interactive systems, with a focus on scalability, performance, and user-centric design.
+Advancing ML applications in healthcare, geospatial analysis, and interactive systems — with emphasis on scalable deployment and user-centric design.
 
 | Topic | Focus | Tools / Frameworks |
-|-------|-------|--------------------|
-| 🧠 **Computer Vision & Medical Imaging** | Tumor detection, disease prediction, image segmentation | TensorFlow, PyTorch, OpenCV, Scikit-learn |
-| 🌍 **GeoAI & Spatial Analysis** | Building footprint extraction, urban mapping | GDAL, GeoPandas, PyTorch, QGIS |
-| 🤖 **Gesture Recognition** | Real-time body pose estimation for interactive controls | MediaPipe, OpenPose, Python |
-| 📁 **Intelligent File Management** | AI-powered duplicate detection, file organization | TypeScript, transformers.js, faiss, Node.js |
-| 🌐 **Web Deployment for ML** | Scalable model serving, API integrations | Flask, Django, React, Vercel, Streamlit |
-| 📊 **Data Pipelines** | ETL, augmentation, handling imbalanced datasets | Pandas, NumPy, Dask, Airflow |
+| -- | -- | -- |
+| 🧠 Computer Vision & Medical Imaging | Tumor detection, disease prediction, image classification | TensorFlow/Keras, OpenCV, Scikit-learn |
+| 🌍 Geospatial AI | Building footprint extraction, boundary detection | PyTorch, GDAL, GeoPandas |
+| 🤖 Gesture Recognition | Body pose estimation for game controls | MediaPipe, OpenPose, Python |
+| 📁 Intelligent File Management | Duplicate detection, auto-organization, ML-powered cleaning | TypeScript, Node.js, ML libraries (e.g., faiss for similarity) |
+| 🌐 Web Development for ML | Full-stack deployment of AI models | Flask, Django, React, Vercel/Streamlit |
+| 📊 Data Processing & Pipelines | ETL for ML datasets, performance optimization | Pandas, NumPy, Dask |
 
 **Quick Notes:**
-- **CV**: CNNs and transfer learning for medical diagnostics
-- **GeoAI**: GPU-accelerated processing for heterogeneous imagery
-- **Gestures**: Low-latency pose estimation for gaming
-- **File Mgmt**: Semantic similarity with MiniLM/CLIP models
-- **Web Dev**: RESTful APIs, responsive UIs, cloud hosting
-- **Data**: Optimized preprocessing for large-scale ML workflows
+- CV: Focus on CNN architectures for medical diagnostics
+- GeoAI: GPU-accelerated processing for large-scale imagery
+- Gestures: Real-time tracking with low-latency inference
+- File Mgmt: Similarity hashing + ML clustering for efficiency
+- Web Dev: API integrations for model serving
+- Data: Handling imbalanced datasets, augmentation techniques
 
 ## 💼 PROJECT PORTFOLIO
 
-Cutting-edge AI solutions for real-world challenges
+Complete Innovative ML Technology Solutions
 
-| **[Fusing-Brains-and-Boundaries](https://github.com/vibhorjoshi/Fusing-Brains-and-Boundaries)**<br>GPU-Accelerated GeoAI Framework<br>```<br>impact:<br> scalability: "Processes large-scale imagery"<br> accuracy: "Handles heterogeneous data"<br> efficiency: "GPU-optimized workflows"<br> innovation: "Hybrid ML-Geo approach"<br><br>features:<br> - Building footprint extraction<br> - Large-scale spatial analysis<br> - GPU-accelerated processing<br> - Template-based framework<br>``` | **[Mystic-Tarot](https://github.com/vibhorjoshi/Mystic-tarot)**<br>Mental Health Support Platform<br>```<br>achievements:<br> engagement: "Interactive therapy tools"<br> accessibility: "User-friendly design"<br> tech_stack: "Full-stack JavaScript"<br> impact: "Mental health support"<br><br>features:<br> - Tarot-inspired guidance<br> - Real-time chat/support<br> - Privacy-focused design<br> - Responsive web interface<br>``` | **[Temple-Run-Controlling-Game](https://github.com/vibhorjoshi/temple-run-controlling-game-using-body-gesture)**<br>Gesture-Based Game Controller<br>```<br>capabilities:<br> interaction: "Real-time pose detection"<br> latency: "Low-latency controls"<br> platform: "Python-based system"<br> innovation: "Advancing HCI"<br><br>features:<br> - Gesture recognition engine<br> - Game integration (Temple Run)<br> - Pose estimation with MediaPipe<br> - Custom control mappings<br>``` |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-| **[Ai-File-Cleaner](https://github.com/vibhorjoshi/Ai-file-cleaner)**<br>AI-Powered File Management System<br>```<br>highlights:<br> ai_features: "Semantic duplicate detection"<br> automation: "Intelligent file organization"<br> tech_stack: "TypeScript + Next.js"<br> deployment: "Web and desktop apps"<br><br>features:<br> - Text/image similarity (MiniLM/CLIP)<br> - SHA256 exact matching<br> - Real-time scanning UI<br> - Cross-platform support<br>``` | **[Brain-Tumor-Detection](https://vercel.com/vibhor-joshis-projects/brain-tumor-classification-mri-scan)**<br>MRI-Based Classification Tool<br>```<br>development:<br> model: "CNN for tumor detection"<br> deployment: "Vercel-hosted app"<br> accuracy: "High-precision diagnostics"<br> focus: "Healthcare AI"<br><br>features:<br> - MRI image processing<br> - Real-time predictions<br> - Visualization dashboard<br> - Model fine-tuning<br>``` | **[Multiple-Disease-Prediction](https://publicmlwebapp-jiv44uyqzrjuznpfs6gnkx.streamlit.app/)**<br>Multi-Disease Prediction System<br>```<br>scope:<br> diseases: "Multi-condition analysis"<br> platform: "Streamlit web app"<br> models: "Ensemble ML techniques"<br> collaboration: "Open for contributions"<br><br>features:<br> - Symptom-based predictions<br> - User-friendly interface<br> - Privacy-compliant design<br> - Expandable disease modules<br>``` |
+| 🚀 Fusing-Brains-and-Boundaries<br><br>GPU-Accelerated GeoAI Framework<br><br>```<br>impact:<br> scalability: "Large-scale imagery processing"<br> accuracy_boost: "Heterogeneous data handling"<br> efficiency: "GPU-optimized extraction"<br> constraints: "Limited labels support"<br><br>features:<br> - Building footprint extraction<br> - Hybrid ML-Geo processing<br> - Template-based framework<br> - Python implementation<br>``` | 🧠 Mystic-tarot<br><br>Cosmic Connect Mental Health Platform<br><br>```<br>achievements:<br> user_engagement: "Interactive therapy tools"<br> accessibility: "Mental health support site"<br> tech_stack: "Full-stack JavaScript"<br> impact: "Aid for mentally ill individuals"<br><br>features:<br> - Professional counseling interface<br> - Tarot-inspired guidance<br> - Real-time chat/support<br> - User privacy focus<br>``` | 🤖 Temple-run-controlling-game-using-body-gesture<br><br>Gesture-Based Game Controller<br><br>```<br>capabilities:<br> interaction: "Body pose detection"<br> latency: "Real-time control"<br> platform: "Python-based system"<br> innovation: "HCI advancement"<br><br>features:<br> - Gesture recognition engine<br> - Game integration (Temple Run)<br> - Pose estimation models<br> - Custom control mapping<br>``` |
+| -- | -- | -- |
+| 📁 Ai-file-cleaner<br><br>Intelligent File Management System<br><br>```<br>highlights:<br> ai_features: "ML duplicate detection"<br> automation: "Directory scanning/organizing"<br> requirements: "Functional specs outlined"<br> deployment: "TypeScript backend"<br><br>features:<br> - Smart file categorization<br> - Duplicate removal engine<br> - Usage analytics<br> - Cross-platform support<br>``` | 🩺 Brain-Tumor-Detection<br><br>MRI-Based Classification Tool<br><br>```<br>development:<br> model: "CNN for tumor detection"<br> deployment: "Vercel-hosted app"<br> accuracy: "High-precision diagnostics"<br> focus: "Healthcare AI"<br><br>features:<br> - Image upload/processing<br> - Real-time predictions<br> - Visualization dashboard<br> - Model fine-tuning<br>``` | 🌿 Multiple-Disease-Prediction<br><br>Health Prediction System<br><br>```<br>scope:<br> diseases: "Multi-condition analysis"<br> platform: "Streamlit web app"<br> models: "Ensemble ML techniques"<br> collaboration: "Open for contributions"<br><br>features:<br> - Symptom-based prediction<br> - User-friendly interface<br> - Data privacy compliance<br> - Expandable disease modules<br>``` |
 
 ## 📊 PERFORMANCE DASHBOARD
 
-### 🔥 ML Pipeline Performance Matrix
+### 🔥 Neural Network Performance Matrix
 
-[![Commits](https://img.shields.io/github/commit-activity/m/vibhorjoshi/Fusing-Brains-and-Boundaries?label=Commits&style=for-the-badge)](https://github.com/vibhorjoshi) 
-[![Stars](https://img.shields.io/github/stars/vibhorjoshi?style=for-the-badge)](https://github.com/vibhorjoshi) 
-[![Forks](https://img.shields.io/github/forks/vibhorjoshi?style=for-the-badge)](https://github.com/vibhorjoshi) 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibhorjoshi&theme=dark)](https://github.com/vibhorjoshi) 
-[![PRs](https://img.shields.io/github/issues-pr/vibhorjoshi?style=for-the-badge)](https://github.com/vibhorjoshi) 
-[![Issues](https://img.shields.io/github/issues-closed/vibhorjoshi?style=for-the-badge)](https://github.com/vibhorjoshi)
+Commits  
+📊 **CODE COMMITS**	Stars  
+⭐ **REPOSITORY STARS**	Forks  
+🍴 **PROJECT FORKS**	Streak  
+🔥 **CODING STREAK**	PRs  
+📈 **PULL REQUESTS**	Issues  
+🎯 **ISSUES RESOLVED**
 
 [![Vibhor Joshi's GitHub | Stats](https://stats.quine.sh/vibhorjoshi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vibhorjoshi)  
-[![Vibhor Joshi's GitHub | Languages Over Time](https://stats.quine.sh/vibhorjoshi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vibhorjoshi)
+[![Vibhor Joshi's GitHub | Languages Over Time](https://stats.quine.sh/vibhorjoshi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vibhorjoshi)  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhorjoshi&show_icons=true&locale=en&layout=compact&theme=dark" alt="vibhorjoshi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhorjoshi&show_icons=true&locale=en&theme=dark" alt="vibhorjoshi" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhorjoshi&theme=dark" alt="vibhorjoshi" /></p>
+
 ## 🌐 PROFESSIONAL NETWORK
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vibhor-joshi-b32138243) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/vibhojoshi) 
-[![Medium](https://img.shields.io/badge/Medium-Articles-blue?style=for-the-badge&logo=medium)](https://medium.com/@vibhorjoshi40) 
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:vibhorjoshi40@gmail.com)
+LinkedIn  
+🔗 **Professional Network**	GitHub  
+💻 **Code Repository**	Email  
+📧 **Direct Contact**	Portfolio  
+📋 **On Request**
 
-## 💭 CORE PHILOSOPHY
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vibhor-joshi-b32138243) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/vibhojoshi) [![Medium](https://img.shields.io/badge/Medium-Articles-blue?style=for-the-badge&logo=medium)](https://medium.com/@vibhorjoshi40) [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:vibhorjoshi40@gmail.com)
 
-"In machine learning, innovation lies in blending precision engineering with human-centric solutions, transforming data into tools that empower healthcare, urban planning, and interactive experiences."
+### 💭 Core Philosophy
 
-⚡ **SYSTEM STATUS: ONLINE AND OPTIMIZED FOR IMPACT** ⚡  
-🚀 **ML MODELS ACTIVE - BUILDING THE FUTURE OF AI** 🚀
+"In machine learning, true innovation arises from blending technical precision with real-world impact, turning complex data into actionable insights that solve pressing problems in health, environment, and human interaction."
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Creating+AI-Driven+Solutions" alt="Typing SVG"> 
-</p>
+⚡ **SYSTEM STATUS: ONLINE AND OPTIMIZED FOR COLLABORATION** ⚡
 
-[![Holopin Badges](https://holopin.me/vibhorjoshi)](https://holopin.io/@vibhorjoshi)
+🚀 **NEURAL NETWORKS ACTIVE - BUILDING THE FUTURE OF INTELLIGENT SYSTEMS** 🚀
 
-## 🤝 CONTRIBUTING
+Typing SVG
 
-Interested in collaborating? Fork any of my repositories, create a feature branch, and submit a pull request. I’m open to contributions on [Leaf Disease Predictor](https://leaf-disease-predictor-unub.vercel.app/market) and [Multiple Disease Prediction System](https://publicmlwebapp-jiv44uyqzrjuznpfs6gnkx.streamlit.app/).
+[![An image of @vibhorjoshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vibhorjoshi)](https://holopin.io/@vibhorjoshi)
 
-**Guidelines:**
-- Follow coding standards (TypeScript/Python best practices)
-- Write tests for new features
-- Update documentation
-- Ensure CI/CD pipelines pass
+##  Pinned Loading
 
-## 📄 LICENSE
+1. Fusing-Brains-and-Boundaries Fusing-Brains-and-Boundaries Public template
 
-All projects are licensed under the MIT License unless specified otherwise. See individual repository LICENSE files for details.
+   Accurately extracting building footprints at large scale is challenging due to heterogeneous imagery, limited labels, and compute constraints. We present a GPU-accelerated hybrid GeoAI framework th…
 
-## 🙏 ACKNOWLEDGMENTS
+   Python 1
+2. Mystic-tarot Mystic-tarot Public
 
-- Hugging Face for pre-trained models (MiniLM, CLIP)
-- Vercel and Streamlit for seamless deployment
-- MediaPipe for gesture recognition capabilities
-- Open-source community for tools and inspiration
+   cosmic connect a Professional website for mentally ill people
 
-Made with ❤️ and 🤖 AI
+   JavaScript 1 1
+3. temple-run-controlling-game-using-body-gesture temple-run-controlling-game-using-body-gesture Public
 
+   Python 1 1
+4. Ai-file-cleaner Ai-file-cleaner Public
+
+   This document outlines the functional and non-functional requirements for an AI-powered file management system. The system focuses on intelligent directory scanning, ML-powered duplicate detection…
+
+   TypeScript
 
 
