@@ -346,8 +346,6 @@ class VibhorJoshi:
 | 🧠 **Innovation Index** | Novel Solutions | High | 📈 |
 | 🚀 **Deployment Rate** | Production Apps | 6+ | 📈 |
 
-[![Vibhor's GitHub | Languages Over Time](https://stats.quine.sh/vibhorjoshi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vibhorjoshi)
-</div>
 
 ### **Achievement Showcase**
 
